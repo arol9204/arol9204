@@ -54,6 +54,6 @@ I'm Alejandro, a life learner mathematician heading up into the Data Science wor
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=arol9204&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" /></div>  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arol9204&hide_border=true&layout=compact" align="right" style="width: 50%" /></div>  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arol9204&hide_border=true&layout=compact" align="right" style="width: 40%" /></div>  
 
 <br/>  
