@@ -16,7 +16,7 @@ I'm Alejandro, a life learner mathematician heading up into the Data Science wor
 ### Programming Languages  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://www.python.org/static/img/python-logo@2x.png" alt="Python" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://www.r-project.org/" alt="R" height="50" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://www.r-project.org/Rlogo.png" alt="R" height="50" /></a>  
 </div>
 
 </td></tr></table>  
