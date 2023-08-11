@@ -18,7 +18,6 @@ I'm Alejandro, a life learner mathematician heading up into the Data Science wor
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://www.python.org/static/img/python-logo@2x.png" alt="Python" height="50" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://www.r-project.org/Rlogo.png" alt="R" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="50%">
@@ -27,6 +26,7 @@ I'm Alejandro, a life learner mathematician heading up into the Data Science wor
 <div align="center">  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1685882496/hevo-learn-1/microsoft-power-bi-logo_151265f430f.png?_i=AA" alt="Power Bi" height="50" /></a>  
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://www.gstatic.com/devrel-devsite/prod/v85f54088ef7777280c83d69d659572c5ef9931b8141761ffdab023f32799d208/tensorflow/images/lockup.svg" alt="TensorFlow" height="50" /></a>  
