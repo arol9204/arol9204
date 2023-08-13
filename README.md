@@ -2,7 +2,7 @@
 
 I'm Alejandro, a life learner mathematician heading up into the Data Science world and this is a little bit about me:
 
-- 🔭 I’m currently working on A Recycling Request Service using CNN.
+- 🔭 I’m currently working on A Recycling Collection Service using CNN.
 - 🌱 I’m currently learning Deep Learning and Generative AI.
 - 📫 I’m looking to collaborate on real-life problems.
 
