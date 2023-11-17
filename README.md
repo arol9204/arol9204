@@ -9,7 +9,7 @@ I'm Alejandro, a life learner mathematician heading up into the Data Science wor
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
 
 
@@ -19,7 +19,7 @@ I'm Alejandro, a life learner mathematician heading up into the Data Science wor
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://github.com/arol9204/arol9204/blob/main/images/Rlogo.png" alt="R" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
   
 ### Databases
 <div align="center">  
@@ -27,16 +27,22 @@ I'm Alejandro, a life learner mathematician heading up into the Data Science wor
 <a href="https://www.microsoft.com/en-ca/sql-server" target="_blank"><img style="margin: 10px" src="https://github.com/arol9204/arol9204/blob/main/images/SQL%20Server.png" alt="MySQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
+### Data Science Libraries
+<div align="center">  
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://github.com/arol9204/arol9204/blob/main/images/logo-small.png" alt="Keras" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://github.com/arol9204/arol9204/blob/main/images/tensorflow.svg" alt="TensorFlow" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="25%">
+  
 ### Analytics Tools
 <div align="center">  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://github.com/arol9204/arol9204/blob/main/images/tableau.png" alt="Tableau" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/arol9204/arol9204/main/images/power%20bi.webp" alt="Power Bi" height="50" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://github.com/arol9204/arol9204/blob/main/images/latex.svg" alt="LaTeX" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/arol9204/arol9204/blob/main/images/git.png" alt="Git" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://github.com/arol9204/arol9204/blob/main/images/logo-small.png" alt="Keras" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://github.com/arol9204/arol9204/blob/main/images/tensorflow.svg" alt="TensorFlow" height="50" /></a>  
 </div>
 
 </td></tr></table>  
