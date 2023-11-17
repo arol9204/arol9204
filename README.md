@@ -29,7 +29,7 @@ I'm Alejandro, a life learner mathematician heading up into the Data Science wor
 
 </td><td valign="top" width="33%">
 
-### Data Science Tools
+### Analytics Tools
 <div align="center">  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://github.com/arol9204/arol9204/blob/main/images/tableau.png" alt="Tableau" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/arol9204/arol9204/main/images/power%20bi.webp" alt="Power Bi" height="50" /></a>  
